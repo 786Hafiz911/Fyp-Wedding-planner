@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "734920443370",
+    "project_id": "wedding-planer-70cfc",
+    "storage_bucket": "wedding-planer-70cfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734920443370:android:16dc67d4ccd2d8233b9e93",
+        "android_client_info": {
+          "package_name": "com.example.fyp_wed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734920443370-jplms9put729pv90jem6l0altk23dqhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxORYQ-1F7LihX2z9omTKLqGFnkZZ7BoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734920443370-jplms9put729pv90jem6l0altk23dqhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
